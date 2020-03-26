@@ -1,5 +1,5 @@
 # vue-traffic-light
-my first vue app 
+My first vue app 
 </br>
 Simple traffic light with routing
 </br>
